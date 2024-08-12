@@ -1,0 +1,6 @@
+gsap
+locomotive-scroll
+react-icons
+split-type
+swiper
+framer-motion: page transitions AnimatePresence and motion used
